@@ -54,4 +54,4 @@ npm instal react
 
 # Autores
 
-| [<img loading="lazy" src=" " width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/bruninlins" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) 
